@@ -7,4 +7,4 @@
 - How is getCartAmount working ? 
 
 
-Backend URL: https://e-commerce-clothing-snowy.vercel.app/
+Backend URL: e-commerce-clothing-backend.vercel.app
