@@ -1,0 +1,10 @@
+2026-03-17 
+
+- Learn how to addToCart, getCartCount function is actually working 
+- What is happening in the useEffect in cart.jsx ? 
+
+2026-03-18
+- How is getCartAmount working ? 
+
+
+Backend URL: https://e-commerce-clothing-snowy.vercel.app/
